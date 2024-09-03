@@ -1,0 +1,3 @@
+Ctrl+Shift+`(bektik) => yangi terminalni ochadi
+Ctrl+` => terminalni ochadi va yopadi
+Ctrl + R => saytni refresh qiladi 
